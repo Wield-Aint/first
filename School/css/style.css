@@ -37,7 +37,7 @@ src: url("../font/webfontkit-20231023-143315/carre-jwja-webfont.woff") format("w
 }
 .text_white {color:white;}
 .text_title_size_m {font-size: 18pt;}
-.text_title_size_l {font-size: 24pt;}
+.text_title_size_l {font-size: 22pt;}
 .text_title_size_s {font-size: 14pt;}
 .text_title_size_xl {font-size: 60px;}
 .text-gradient {
@@ -445,7 +445,7 @@ header {
     margin-right: 2em;
 }
 .menu_namecard_img {
-    height: 10em;
+    height: 12em;
     width: 40em;
     border-radius: 10px;
 }
